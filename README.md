@@ -25,8 +25,8 @@ I create quantum autom processes and tools for IT engineering.
 <img align="left" alt="Docker" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-1024.png" />
 <img align="left" alt="Streamlit" width="30px" src="https://docs.streamlit.io/logo.svg" />
 <img align="left" alt="Linux" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-1024.png" />
-<img align="left" alt="Electronic" width="26px" src="https://cdn4.iconfinder.com/data/icons/colorful-electronic-parts/108/circuitdiagram_full_of_color2-42-512.png" />
-<img align="left" alt="Arduino" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />  
+<img align="left" alt="Electronic" width="32px" src="https://cdn4.iconfinder.com/data/icons/colorful-electronic-parts/108/circuitdiagram_full_of_color2-42-512.png" />
+<img align="left" alt="Arduino" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />  
 <br />
 <br />
 
