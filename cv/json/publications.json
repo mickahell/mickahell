@@ -1,0 +1,30 @@
+{
+    "publications": {
+        "1": {
+            "title": "Informatique Quantique - Qubit",
+            "author": "Michaël Rollin",
+            "doi": "10.5281/zenodo.4457645",
+            "hal_id": "hal-03129625",
+            "type": "class",
+            "domaine": "quantum computing",
+            "publication_date": "2021-01-22",
+            "language": "french",
+            "hal_url": "https://hal.archives-ouvertes.fr/hal-03129625",
+            "doc_url": "https://hal.archives-ouvertes.fr/hal-03129625/document",
+            "abstract": "Le qubit est l’unité de base d’un ordinateur quantique. Il y a actuellement plusieurs types d’ordinateurs quan- tique, des ordinateurs composés de particules, d’atomes, de silicium ... et fonctionnent avec une logique différente de la logique booléenne : la logique quantique. Combinés entre eux, ils permettent un nombre de possibilités bien plus élevé qu’avec des bits classiques. Cependant, ils existe actuellement un problème de taille : la décohérence. En effet, la décohérence correspond à l’instabilité du qubit, celui-ci étant très influençable par le moindre élément extérieur."
+        },
+        "2": {
+            "title": "Informatique Quantique - Mathématique",
+            "author": "Michaël Rollin",
+            "doi": "10.5281/zenodo.4457651",
+            "hal_id": "hal-03129624",
+            "type": "class",
+            "domaine": "quantum computing",
+            "publication_date": "2021-01-22",
+            "language": "french",
+            "hal_url": "https://hal.archives-ouvertes.fr/hal-03129624",
+            "doc_url": "https://hal.archives-ouvertes.fr/hal-03129624/document",
+            "abstract": "Le qubit est l’unité de base d’un ordinateur quantique. Il y a actuellement plusieurs types d’ordinateurs quan- tique, des ordinateurs composés de particules, d’atomes, de silicium ... et fonctionnent avec une logique différente de la logique booléenne : la logique quantique. Combinés entre eux, ils permettent un nombre de possibilités bien plus élevé qu’avec des bits classiques. Cependant, ils existe actuellement un problème de taille : la décohérence. En effet, la décohérence correspond à l’instabilité du qubit, celui-ci étant très influençable par le moindre élément extérieur."
+        },
+    }
+}
