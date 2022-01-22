@@ -1,0 +1,16 @@
+{
+    "info": {
+        "first_name": "Michaël",
+        "last_name": "Rollin",
+        "title": "System Engineer",
+        "country": "France",
+        "city": "Nice",
+        "email": "michael.rollin@orange.fr",
+        "phone": "+33 676060243",
+        "age": "23/09/1993",
+        "github_url": "https://github.com/mickahell",
+        "linkedin_url": "https://www.linkedin.com/in/michaelrollin",
+        "twitter_url": "https://twitter.com/mickahell89700",
+        "google_scholar": "https://scholar.google.ca/citations?hl=fr&user=fxuN_DkAAAAJ"
+    }
+}
