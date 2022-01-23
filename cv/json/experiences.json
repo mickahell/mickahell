@@ -71,7 +71,7 @@
             "city": null,
             "date_begin": "2021-09",
             "date_end": null,
-            "short_description": "Advocate for the Qiskit community, opensource contributor for Qiskit projects.",
+            "short_description": "Advocate for the Qiskit community, opensource contributor for Qiskit projects and also Studies manager in QC for Altran/Capgemini to education and proof of concept purposes.",
             "long_description_url": "exp_descriptions/qiskit.md",
             "technologies": [
                 "Python",
