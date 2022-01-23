@@ -50,7 +50,7 @@
             "city": "Sophia Antipolis",
             "date_begin": "2018-07",
             "date_end": null,
-            "short_description": "Admin system responsible of the production servers for project Meta and the Search. Project about to getting and processing every metadata of the Orange TV and process those datas for the websearch Orange.\nThese data came from partners, internal and external. My role is to build a new automatize deploy architecture by using Docker, Ansible, GitLab pipelines and others DevOps technologies.",
+            "short_description": "Admin system responsible of the production servers for project Meta and the Search. Project about to getting and processing every metadata of the Orange TV and process those data for the websearch Orange. These data came from partners, internal and external. My role is to build a new automatize deploy architecture by using Docker, Ansible, GitLab pipelines and others DevOps technologies.",
             "long_description_url": "exp_descriptions/orange.md",
             "technologies": [
                 "Bash",
