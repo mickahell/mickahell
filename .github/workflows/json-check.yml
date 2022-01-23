@@ -22,7 +22,6 @@ jobs:
               echo "$i --> $return"
               echo "##########################"
               echo "PASS_LOG=False" >> $GITHUB_ENV
-              exit 1
             fi
           done
       - name: Update readme
