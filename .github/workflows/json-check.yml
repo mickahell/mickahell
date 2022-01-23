@@ -27,3 +27,28 @@ jobs:
       - name: Error in json
         if: ${{ env.PASS_LOG == 'False' }}
         run: exit 1
+        
+  Article:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Validate JSON
+        run: |
+          echo "PASS_LOG=True" >> $GITHUB_ENV
+          
+          cd articles
+          for i in *.json; do 
+            return=0
+            echo $i
+            cat $i | jq empty || return=$?
+            
+            if [[ "$return" != 0 ]]; then
+              echo "##########################"
+              echo "$i --> $return"
+              echo "##########################"
+              echo "PASS_LOG=False" >> $GITHUB_ENV
+            fi
+          done
+      - name: Error in json
+        if: ${{ env.PASS_LOG == 'False' }}
+        run: exit 1
