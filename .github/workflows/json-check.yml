@@ -12,8 +12,8 @@ jobs:
           echo "PASS_LOG=True" >> $GITHUB_ENV
           
           cd cv/json
-          set +o
           for i in *.json; do 
+            return=0
             echo $i
             cat $i | jq empty || return=$?
             
