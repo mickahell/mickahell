@@ -1,0 +1,14 @@
+{
+    "index": {
+        "info": [
+            "info"
+        ],
+        "education": [
+            "education",
+            "certifications"
+        ],
+        "publications": [
+            "publications"
+        ]
+    }
+}
