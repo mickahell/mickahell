@@ -15,7 +15,12 @@ jobs:
           for i in *.json; do 
             echo $i
             cat $i | jq empty
-            if [[ "$?" != 0 ]]; then
+            return=$?
+            
+            if [[ "$return" != 0 ]]; then
+              echo "##########################"
+              echo "$i --> $return"
+              echo "##########################"
               echo "PASS_LOG=False" >> $GITHUB_ENV
               exit 1
             fi
