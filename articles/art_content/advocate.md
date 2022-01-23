@@ -47,3 +47,5 @@ the games AI (aka the robots) have their data analyse and will evolve to make th
 ### Bonus
 What a surprise !! 🎁 As gift for becoming advocate, IBM and the Qiskit community sent me these goodies : 
 a backpack with Qiskit logo and an IBM water bottle. Thanks a lot !
+
+<img align="left" alt="Swagpack" width="400" src="https://github.com/mickahell/xtraorbitals.xyz/blob/main/blog/posts/ressources/swagpack.png?raw=true" />
