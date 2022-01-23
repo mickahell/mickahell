@@ -63,6 +63,24 @@
                 "Ubuntu",
                 "Xymon"
             ]
+        },
+        "5": {
+            "title": "Qiskit Advocate",
+            "entreprise": "Qiskit",
+            "country": null,
+            "city": null,
+            "date_begin": "2021-09",
+            "date_end": null,
+            "short_description": "Advocate for the Qiskit community, opensource contributor for Qiskit projects.",
+            "long_description_url": "exp_descriptions/qiskit.md",
+            "technologies": [
+                "Python",
+                "Qiskit",
+                "GitHub Actions",
+                "Ansible",
+                "Streamlit",
+                "Docker"
+            ]
         }
     }
 }
