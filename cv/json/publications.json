@@ -26,5 +26,27 @@
             "doc_url": "https://hal.archives-ouvertes.fr/hal-03129624/document",
             "abstract": "Tout comme avec l’informatique classique, l’informatique quantique est régie par des lois mathématiques. La majorité des algorithmes ayant été écrite par des mathématiciens et/ou des physiciens, il est nécessaire de comprendre de quelle manière sont effectuées les altérations des qubits entre eux et avec les portes logiques. Pour cela, je commencerai par vous présenter dans cet article les représentations mathématiques de l’informatique quantique. Puis j’expliquerai comment fonctionnent les représentations plus visuelles que sont la Bloch sphere et la Qsphere. Enfin un chapitre En bref résumera les différents principes à l’aide de termes plus accessibles."
         }
+    },
+    "blogposts": {
+        "0": {
+            "title": "Quantum Pokemon Fight",
+            "author": "Michaël Rollin",
+            "doi": "10.5281/zenodo.5594389",
+            "language": "english",
+            "url": "https://fullstackquantumcomputation.tech/blog/post-quantum-pokemon-fight",
+            "publication_date": "2021-01-09",
+            "domaine": "quantum computing",
+            "abstract": "A quantum game and algorithm to fight in Pokemon."
+        },
+        "1": {
+            "title": "Quantum Lab",
+            "author": "Michaël Rollin",
+            "doi": "10.5281/zenodo.4664195",
+            "language": "english",
+            "url": "https://fullstackquantumcomputation.tech/blog/post-quantum-lab",
+            "publication_date": "2021-04-07",
+            "domaine": "quantum computing",
+            "abstract": "A simple docker image to simulate a full Quantum laboratory."
+        }
     }
 }
