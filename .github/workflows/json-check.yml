@@ -24,6 +24,6 @@ jobs:
               echo "PASS_LOG=False" >> $GITHUB_ENV
             fi
           done
-      - name: Update readme
+      - name: Error in json
         if: ${{ env.PASS_LOG == 'False' }}
         run: exit 1
