@@ -8,6 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Validate JSON
-        uses: OrRosenblatt/validate-json-action@0.1.0
+        uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_JSONS: cv/json/*
