@@ -1,0 +1,88 @@
+{
+    "projects": {
+        "1": {
+            "name": "quantum_pokemon-fight",
+            "date": "12/2020"
+            "organisation": "mickahell",
+            "doi": "10.5281/zenodo.5594389",
+            "repo_url": "https://github.com/mickahell/quantum_pokemon-fight",
+            "live_url": "http://games.xtraorbitals.xyz",
+            "opensource": true,
+            "language": "python",
+            "publish": true,
+            "description": "A quantum game and algorithm to fight in Pokemon."
+        },
+        "2": {
+            "name": "Quantum Lab",
+            "date": "03/2021"
+            "organisation": "mickahell",
+            "doi": "10.5281/zenodo.4664195",
+            "repo_url": "https://github.com/mickahell/quantum_lab",
+            "live_url": "https://quantum-lab.xtraorbitals.xyz/",
+            "opensource": true,
+            "language": "python",
+            "publish": true,
+            "description": "Docker image for quantum laboratory."
+        },
+        "3": {
+            "name": "Quantum Experiments",
+            "date": "04/2021"
+            "organisation": "mickahell",
+            "doi": null,
+            "repo_url": "https://github.com/mickahell/quantum_experiments",
+            "live_url": null,
+            "opensource": true,
+            "language": "python",
+            "publish": true,
+            "description": "Repository for all my quantum experiments."
+        },
+        "3": {
+            "name": "xtraorbitals.xyz",
+            "date": "06/2021"
+            "organisation": "mickahell",
+            "doi": null,
+            "repo_url": "https://github.com/mickahell/xtraorbitals.xyz",
+            "live_url": "https://xtraorbitals.xyz",
+            "opensource": true,
+            "language": "python",
+            "publish": true,
+            "description": "Repository for all my micro services and my website."
+        },
+        "4": {
+            "name": "Quantum Nim game",
+            "date": "12/2021"
+            "organisation": "mickahell",
+            "doi": null,
+            "repo_url": "https://github.com/mickahell/quantum_Nim-game",
+            "live_url": "http://games.xtraorbitals.xyz",
+            "opensource": true,
+            "language": "python",
+            "publish": false,
+            "description": "Quantum version of the classical Nim game. An automatic opponent allows the game to not be as easy as it seems."
+        },
+        "5": {
+            "name": "robots-data",
+            "date": "09/2021"
+            "organisation": "mickahell",
+            "doi": null,
+            "repo_url": "https://github.com/mickahell/robots-data",
+            "live_url": null,
+            "opensource": true,
+            "language": "python",
+            "publish": true,
+            "description": "Data of my robots for my website."
+        },
+        "6": {
+            "name": "Qiskit Ecosystem",
+            "date": "12/2021"
+            "organisation": "qiskit-community",
+            "doi": null,
+            "repo_url": "https://github.com/qiskit-community/ecosystem",
+            "live_url": null,
+            "opensource": true,
+            "language": "python",
+            "publish": false,
+            "description": "The Ecosystem consists of projects, tools, utilities, libraries and tutorials from a broad community of developers and researchers. The goal of the Ecosystem is to recognize, support and accelerate development of quantum technologies using Qiskit."
+        }
+    }
+}
