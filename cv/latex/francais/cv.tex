@@ -1,0 +1,72 @@
+\documentclass[12pt,a4paper]{moderncv}
+\moderncvtheme[blue]{classic}
+\usepackage[utf8]{inputenc}
+\usepackage{pifont}
+\usepackage[inline]{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{tikzmark}
+% Marge aux 4 coins de la page, ici elles sont réduites pour gagner de la place
+\usepackage[top=0.5cm, bottom=0.5cm, left=1.0cm, right=1.0cm]{geometry}
+% Largeur de la colonne de gauche pour les dates
+\setlength{\hintscolumnwidth}{3.0cm}
+\firstname{Michaël}
+\familyname{Rollin}
+\title{Ingénieur Système}
+\address{\tikzmark{start} 37 rue de France}{06000 Nice}
+\email{michael.rollin@orange.fr}
+\homepage{https://github.com/mickahell}
+\mobile{06 76 06 02 43}
+\extrainfo{27 ans\tikzmark{end}}
+
+\begin{document}
+\begin{tikzpicture}[remember picture,overlay]
+\fill[color1!35]
+  (current page.north west) rectangle ([yshift=-1em]current page.east|-{pic cs:end});
+\end{tikzpicture}
+\maketitle
+% Marge négative entre le titre et la partie expérience, pour gagner de la place
+\vspace*{-3\baselineskip}
+
+\section{Expériences}
+\cventry{Mars 2020 \\à Aujourd'hui}{Chargé d'étude en quantum computing}{Altran}{}{}{
+\begin{itemize}[topsep=1pt, itemsep=0pt, partopsep=0pt, parsep=0pt]
+\item Chargé de création de documents de formation et de tuto en quantum computing à destination de personne ayant un profil de développeur ou d'ingénieur en informatique.\end{itemize}}
+\cventry{Juillet 2018\\à Aujourd'hui}{Administrateur système}{Orange par Altran}{Sophia-Antipolis}{France}{
+Ops en charge des serveurs de production sur les projets Meta \& Search. Projets consistant à la récupération et au traitement des métadonnées en lien avec la TV d’Orange et au moteur de recherche.
+\begin{itemize}[topsep=2pt, itemsep=1pt, partopsep=1pt, parsep=1pt]
+\item Dockeurisation du système de traitement des métadonnées
+\item Migration d'une architecture physique en une architecture serverless
+\item Création d’une nouvelle architecture en microservices
+\item Automatisation de processus via Ansible
+\end{itemize}}
+\cventry{Juin 2017 \\à Juin 2019}{Web Project Administrator}{Erasmus Student Network France}{}{}{
+Responsable de la stratégie numérique du réseau ESN France ainsi que des outils et des projets numériques.
+\begin{itemize}[topsep=2pt, itemsep=1pt, partopsep=1pt, parsep=1pt]
+\item Responsable du projet européen \href{https://buddysystem.eu/fr/the-project}{Buddy System}
+\item Création de différentes plateformes : intranet, webshop, ...
+\end{itemize}}
+\cventry{Mars 2017 \\à Septembre 2017}{Ingénieur Cybersécurité}{Ekium}{Lyon}{}{
+\begin{itemize}[topsep=1pt, itemsep=0pt, partopsep=0pt, parsep=0pt]
+\item Création d'un architecture de cybersécurité incluant un système de supervision pour une usine de dessalement d'eau de mer à Oman.\end{itemize}}
+
+\section{Formations}
+\cventry{2016 -- 2017}{Master 2}{ESAIP Dijon (21)}{Chef de projet international en systèmes numériques}{}{}
+\cventry{2016}{Master 1}{LaSalle Cuernavaca (Mexique)}{Cibernética}{}{}
+\cventry{2015}{Licence 3}{Politechnika Varsovie (Pologne)}{Electrical Engineering}{}{}
+\cventry{2014}{BTS}{St Joseph Dijon}{Systèmes électroniques}{}{}
+
+\section{Certifications}
+\cventry{Juillet 2021}{\href{https://www.credly.com/badges/7b27192c-7f23-4725-bd08-a27e7a76c7cb}{IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X}}{IBM}{}{}{}
+\cventry{Juillet 2021}{\href{https://qiskit.org/events/summer-school/}{Qiskit Global Summer School}}{IBM}{}{}{2 semaines (41h) de cours et de TP en quantum machine learning.}
+\cventry{Nov 20/Mai 21}{\href{https://www.credly.com/badges/a020adc5-df85-48ae-9cbf-2e8bed405a5f}{IBM Quantum Challenge - Advanced}}{IBM}{Badge de niveau avancé}{}{}
+
+\section{Compétences en informatique}
+\cvitem{\underline{OS}}{Ubuntu, CentOS, Windows Serveur 2008 \texttt{/} 2012 R2}
+\cvitem{\underline{Programmation}}{Python, C++, QISkit, Pennylane}
+\cvitem{\underline{Admin. services}}{Docker, Ansible, CI/CD, Vmware}
+\cvitem{\underline{Electronique}}{MPLAB, PCAD, MATLAB}
+\cvdoubleitem{\underline{Anglais}}{\ding{72}\ding{72}\ding{72}\ding{72}\ding{73} -- Toeic 795 \texttt{/} 990}{\underline{Espagnol}}{\ding{72}\ding{72}\ding{72}\ding{72}\ding{73}}{}
+
+\section{Centres d'intérêt}
+\cvitem{}{Création d'articles pour \href{https://fullstackquantumcomputation.tech}{\textit{Full-Stack Quantum Computation}}, \href{https://pintofscience.fr/equipe/Nice}{Event manager à Pint of Science}, 16 ans de Judo ceinture Noire 1er dan.}
+\end{document}

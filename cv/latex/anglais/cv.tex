@@ -1,0 +1,72 @@
+\documentclass[12pt,a4paper]{moderncv}
+\moderncvtheme[blue]{classic}
+\usepackage[utf8]{inputenc}
+\usepackage{pifont}
+\usepackage[inline]{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{tikzmark}
+% Marge aux 4 coins de la page, ici elles sont réduites pour gagner de la place
+\usepackage[top=0.5cm, bottom=0.5cm, left=1.0cm, right=1.0cm]{geometry}
+% Largeur de la colonne de gauche pour les dates
+\setlength{\hintscolumnwidth}{3.0cm}
+\firstname{Michaël}
+\familyname{Rollin}
+\title{System Engineer}
+\address{\tikzmark{start} 37 rue de France}{06000 Nice}
+\email{michael.rollin@orange.fr}
+\homepage{https://github.com/mickahell}
+\mobile{06 76 06 02 43}
+\extrainfo{28 years\tikzmark{end}}
+
+\begin{document}
+\begin{tikzpicture}[remember picture,overlay]
+\fill[color1!35]
+  (current page.north west) rectangle ([yshift=-1em]current page.east|-{pic cs:end});
+\end{tikzpicture}
+\maketitle
+% Marge négative entre le titre et la partie expérience, pour gagner de la place
+\vspace*{-3\baselineskip}
+
+\section{Experiences}
+\cventry{March 2020 \\to Today}{Studies manager in quantum computing}{Altran}{}{}{
+\begin{itemize}[topsep=1pt, itemsep=0pt, partopsep=0pt, parsep=0pt]
+\item Writer of training documents and tutorial in quantum computing for developper profile or general electrical engineer.\end{itemize}}
+\cventry{July 2018\\to Today}{System Engineer}{Orange by Altran}{Sophia-Antipolis}{France}{
+Admin system responsible of the production servers for project Meta. Project about to getting and processing every metadata of the Orange TV.
+\begin{itemize}[topsep=2pt, itemsep=1pt, partopsep=1pt, parsep=1pt]
+\item Dockeurisation of the metadata processing system
+\item Migration from a physical architecture to a virtual architecture in the cloud with Docker Swarm
+\item Development of a new architecture un microservices
+\item Processus automatisation with Ansible
+\end{itemize}}
+\cventry{June 2017 \\to June 2019}{Web Project Administrator}{Erasmus Student Network France}{}{}{
+Responsible of the IT strategic and of the IT prokect of the head NGO ESN France.
+\begin{itemize}[topsep=2pt, itemsep=1pt, partopsep=1pt, parsep=1pt]
+\item Responsible of the European project \href{https://buddysystem.eu/fr/the-project}{Buddy System}
+\item Development of plateforms : intranet, webshop, ...
+\end{itemize}}
+\cventry{March 2017 \\to September 2017}{Cybersecurity Engineer}{Ekium}{Lyon}{}{
+\begin{itemize}[topsep=1pt, itemsep=0pt, partopsep=0pt, parsep=0pt]
+\item Development of a cybersecurity architecture with a supervision system for a seawater desalination plant in Oman.\end{itemize}}
+
+\section{Education}
+\cventry{2016 -- 2017}{Master 2}{ESAIP Dijon (21)}{IT project management}{}{}
+\cventry{2016}{Master 1}{LaSalle Cuernavaca (Mexico)}{Cibernética}{}{}
+\cventry{2015}{Licence 3}{Politechnika Warsaw (Poland)}{Electrical Engineering}{}{}
+\cventry{2014}{BTS}{St Joseph Dijon}{Electronics systems}{}{}
+
+\section{Certifications}
+\cventry{July 2021}{\href{https://www.credly.com/badges/7b27192c-7f23-4725-bd08-a27e7a76c7cb}{IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X}}{IBM}{}{}{}
+\cventry{July 2021}{\href{https://qiskit.org/events/summer-school/}{Qiskit Global Summer School}}{IBM}{}{}{}
+\cventry{Nov 20/May/Aug 21}{\href{https://www.credly.com/badges/a020adc5-df85-48ae-9cbf-2e8bed405a5f}{IBM Quantum Challenge - Advanced}}{IBM}{Advanced badges}{}{}
+
+\section{IT skills}
+\cvitem{\underline{OS}}{Ubuntu, CentOS, Windows Server 2008 \texttt{/} 2012 R2}
+\cvitem{\underline{Coding}}{Python, C++, QISkit, Pennylane}
+\cvitem{\underline{Admin. services}}{Docker, Ansible, CI/CD, Vmware}
+\cvitem{\underline{Electronic}}{MPLAB, PCAD, MATLAB}
+\cvdoubleitem{\underline{English}}{\ding{72}\ding{72}\ding{72}\ding{72}\ding{73} -- Toeic 795 \texttt{/} 990}{\underline{Spanish}}{\ding{72}\ding{72}\ding{72}\ding{72}\ding{73}}{}
+
+\section{Hobbies}
+\cvitem{}{Writer for \href{https://fullstackquantumcomputation.tech}{\textit{Full-Stack Quantum Computation}}, \href{https://pintofscience.fr/equipe/Nice}{Event manager at Pint of Science}, 16 years of judo 1st dan black belt.}
+\end{document}
