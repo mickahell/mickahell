@@ -8,7 +8,11 @@
             "certifications"
         ],
         "publications": [
-            "publications"
+            "publications",
+            "blogposts"
+        ],
+        "projects": [
+            "projects"
         ]
     }
 }
