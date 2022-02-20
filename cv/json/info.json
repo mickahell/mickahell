@@ -59,15 +59,18 @@
         "languages": [
             {
                 "name": "French",
-                "level": "native"
+                "level": "native",
+                "diploma": null
             },
             {
                 "name": "English",
-                "level": "**** – Toeic 795 / 990"
+                "level": "****",
+                "diploma": "Toeic 795 / 990"
             },
             {
                 "name": "Spanish",
-                "level": "***"
+                "level": "***",
+                "diploma": null
             }
         ],
         "hobbies": [
