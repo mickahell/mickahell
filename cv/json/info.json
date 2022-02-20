@@ -10,10 +10,15 @@
         "phone": null,
         "age": "1993-09-23",
         "website": "https://xtraorbitals.xyz",
-        "github_url": "https://github.com/mickahell",
-        "linkedin_url": "https://www.linkedin.com/in/michaelrollin",
-        "twitter_url": "https://twitter.com/mickahell89700",
-        "google_scholar": "https://scholar.google.ca/citations?hl=fr&user=fxuN_DkAAAAJ",
+        "socials":[
+            {
+                "github_url": "https://github.com/mickahell",
+                "linkedin_url": "https://www.linkedin.com/in/michaelrollin",
+                "twitter_url": "https://twitter.com/mickahell89700",
+                "google_scholar": "https://scholar.google.ca/citations?hl=fr&user=fxuN_DkAAAAJ",
+                "orcid_url": "https://orcid.org/0000-0001-8619-8190"
+            }
+        ],
         "skills": [
             {
                 "category": "OS",
