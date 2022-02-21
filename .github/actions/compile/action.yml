@@ -19,7 +19,7 @@ runs:
         fi
         
         latex -interaction=nonstopmode ${{ inputs.document_tex }} || true
-        bibtex ${bib_file%.*}
+        bibtex ${bib_file%.*} || true
         for i in {0..3}; do
           pdflatex -interaction=nonstopmode ${{ inputs.document_tex }}
         done
