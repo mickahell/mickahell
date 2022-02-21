@@ -1,21 +1,36 @@
 {
     "index": {
-        "info": [
-            "info"
-        ],
-        "experiences":[
-            "experiences"
-        ],
-        "education": [
-            "education",
-            "certifications"
-        ],
-        "publications": [
-            "publications",
-            "blogposts"
-        ],
-        "projects": [
-            "projects"
-        ]
+        "info": {
+            "key": "info",
+            "pages": [            [
+                "info"
+            ]
+        },
+        "experiences":{
+            "key": "experiences",
+            "pages": [
+                "experiences"
+            ]
+        },
+        "education": {
+            "key": "education",
+            "pages": [
+                "education",
+                "certifications"
+            ]
+        },
+        "publications": {
+            "key": "publications",
+            "pages": [
+                "publications",
+                "blogposts"
+            ]
+        },
+        "projects": {
+            "key": "projects",
+            "pages": [
+                "projects"
+            ]
+        }
     }
 }
