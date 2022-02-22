@@ -1,34 +1,14 @@
 {
     "education": [
         {
-            "diploma": "BTS",
-            "level": "bac+2",
-            "title": "Electronics systems",
-            "country": "France",
-            "city": "Dijon",
-            "school": "St Joseph",
-            "date_begin": "2012",
-            "date_end": "2014"
-        },
-        {
-            "diploma": "Bachelor",
-            "level": "bac+3",
-            "title": "Electrical Engineering",
-            "country": "Poland",
-            "city": "Warsaw",
-            "school": "Politechnika",
-            "date_begin": "2015",
-            "date_end": "2015"
-        },
-        {
-            "diploma": "Master 1",
-            "level": "bac+4",
-            "title": "Cibernética",
-            "country": "Mexico",
-            "city": "Cuernavaca",
-            "school": "LaSalle",
-            "date_begin": "2016",
-            "date_end": "2016"
+            "diploma": "Certificate of Quantum Excellence",
+            "level": null,
+            "title": "Qiskit Global Summer School on Quantum Machine Learning",
+            "country": null,
+            "city": null,
+            "school": "Qiskit",
+            "date_begin": "2021",
+            "date_end": "2021"
         },
         {
             "diploma": "Master 2",
@@ -41,42 +21,41 @@
             "date_end": "2017"
         },
         {
-            "diploma": "Certificate of Quantum Excellence",
-            "level": null,
-            "title": "Qiskit Global Summer School on Quantum Machine Learning",
-            "country": null,
-            "city": null,
-            "school": "Qiskit",
-            "date_begin": "2021",
-            "date_end": "2021"
+            "diploma": "Master 1",
+            "level": "bac+4",
+            "title": "Cibernética",
+            "country": "Mexico",
+            "city": "Cuernavaca",
+            "school": "LaSalle",
+            "date_begin": "2016",
+            "date_end": "2016"
+        },
+        {
+            "diploma": "Bachelor",
+            "level": "bac+3",
+            "title": "Electrical Engineering",
+            "country": "Poland",
+            "city": "Warsaw",
+            "school": "Politechnika",
+            "date_begin": "2015",
+            "date_end": "2015"
+        },
+        {
+            "diploma": "BTS",
+            "level": "bac+2",
+            "title": "Electronics systems",
+            "country": "France",
+            "city": "Dijon",
+            "school": "St Joseph",
+            "date_begin": "2012",
+            "date_end": "2014"
         }
     ],
     "certifications": [
         {
-            "title": "IBM Quantum Challenge - Fall 2020",
+            "title": "IBM Quantum Challenge - Fall 2021",
             "diploma": "Advanced badge",
-            "diploma_url": "https://www.credly.com/badges/4cf18640-47fe-4fd0-9e5f-4edb5ade9693",
-            "organisme": "IBM",
-            "date": "2020"
-        },
-        {
-            "title": "Certificate of Project Submission to QC Hack 2021",
-            "diploma": null,
-            "diploma_url": "https://drive.google.com/file/d/1e5bcyJDFzy-HoYBRlLgbEts_dEkRMX07/view?usp=sharing",
-            "organisme": "Quantum Coalition",
-            "date": "2021"
-        },
-        {
-            "title": "IBM Quantum Challenge 2021 Achievement",
-            "diploma": "Advanced badge",
-            "diploma_url": "https://www.credly.com/badges/a020adc5-df85-48ae-9cbf-2e8bed405a5f",
-            "organisme": "IBM",
-            "date": "2021"
-        },
-        {
-            "title": "IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X",
-            "diploma": null,
-            "diploma_url": "https://www.credly.com/badges/7b27192c-7f23-4725-bd08-a27e7a76c7cb",
+            "diploma_url": "https://www.credly.com/badges/7fd50a08-42b4-4b2e-b3ba-f91e4bc0bbd7",
             "organisme": "IBM",
             "date": "2021"
         },
@@ -88,11 +67,32 @@
             "date": "2021"
         },
         {
-            "title": "IBM Quantum Challenge - Fall 2021",
-            "diploma": "Advanced badge",
-            "diploma_url": "https://www.credly.com/badges/7fd50a08-42b4-4b2e-b3ba-f91e4bc0bbd7",
+            "title": "IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X",
+            "diploma": null,
+            "diploma_url": "https://www.credly.com/badges/7b27192c-7f23-4725-bd08-a27e7a76c7cb",
             "organisme": "IBM",
             "date": "2021"
+        },
+        {
+            "title": "IBM Quantum Challenge 2021 Achievement",
+            "diploma": "Advanced badge",
+            "diploma_url": "https://www.credly.com/badges/a020adc5-df85-48ae-9cbf-2e8bed405a5f",
+            "organisme": "IBM",
+            "date": "2021"
+        },
+        {
+            "title": "Certificate of Project Submission to QC Hack 2021",
+            "diploma": null,
+            "diploma_url": "https://drive.google.com/file/d/1e5bcyJDFzy-HoYBRlLgbEts_dEkRMX07/view?usp=sharing",
+            "organisme": "Quantum Coalition",
+            "date": "2021"
+        },
+        {
+            "title": "IBM Quantum Challenge - Fall 2020",
+            "diploma": "Advanced badge",
+            "diploma_url": "https://www.credly.com/badges/4cf18640-47fe-4fd0-9e5f-4edb5ade9693",
+            "organisme": "IBM",
+            "date": "2020"
         }
     ]
 }
