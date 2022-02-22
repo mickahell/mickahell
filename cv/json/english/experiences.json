@@ -1,46 +1,21 @@
 {
     "experiences": [
         {
-            "title": "Developer",
-            "entreprise": "Grupo Auribox",
-            "country": "Mexico",
-            "city": "Cuernavaca",
-            "date_begin": "2016-07",
-            "date_end": "2016-08",
-            "description": "Development of a multi-OS (Windows, Mac & Linux) billing application link with the IT department of Mexico government.",
-            "long_description_url": null,
-            "technologies": ["PHP"]
-        },
-        {
-            "title": "Cybersecurity Engineer",
-            "entreprise": "Ekium",
-            "country": "France",
-            "city": "Lyon",
-            "date_begin": "2017-03",
-            "date_end": "2017-09",
-            "short_description": "Development of a cybersecurity architecture with a supervision system for protecting and guarantee the data integrity of an automate system for a seawater desalination plant in Oman.",
-            "long_description_url": "exp_descriptions/ekium.md",
+            "title": "Qiskit Advocate",
+            "entreprise": "Qiskit",
+            "country": null,
+            "city": null,
+            "date_begin": "2021-09",
+            "date_end": null,
+            "short_description": "Advocate for the Qiskit community, opensource contributor for Qiskit projects and also Studies manager in QC for Altran/Capgemini to education and proof of concept purposes.",
+            "long_description_url": "exp_descriptions/qiskit.md",
             "technologies": [
-                "Windows Server 2008/2012 R2",
-                "CentOS 7",
-                "Eyes Of Network",
-                "Redmine"
-            ]
-        },
-        {
-            "title": "National Web Project Administrator",
-            "entreprise": "Erasmus Student Network France",
-            "country": "France",
-            "city": "Paris",
-            "date_begin": "2017-06",
-            "date_end": "2019-06",
-            "short_description": "Responsible of the IT strategic and of the IT project of the head NGO ESN France. Moreover, I also was the manager of the locals WPA and of the IT comity.",
-            "long_description_url": "exp_descriptions/esn.md",
-            "technologies": [
-                "PHP",
                 "Python",
-                "Drupal",
-                "Symfony"
+                "Qiskit",
+                "GitHub Actions",
+                "Ansible",
+                "Streamlit",
+                "Docker"
             ]
         },
         {
@@ -65,22 +40,47 @@
             ]
         },
         {
-            "title": "Qiskit Advocate",
-            "entreprise": "Qiskit",
-            "country": null,
-            "city": null,
-            "date_begin": "2021-09",
-            "date_end": null,
-            "short_description": "Advocate for the Qiskit community, opensource contributor for Qiskit projects and also Studies manager in QC for Altran/Capgemini to education and proof of concept purposes.",
-            "long_description_url": "exp_descriptions/qiskit.md",
+            "title": "National Web Project Administrator",
+            "entreprise": "Erasmus Student Network France",
+            "country": "France",
+            "city": "Paris",
+            "date_begin": "2017-06",
+            "date_end": "2019-06",
+            "short_description": "Responsible of the IT strategic and of the IT project of the head NGO ESN France. Moreover, I also was the manager of the locals WPA and of the IT comity.",
+            "long_description_url": "exp_descriptions/esn.md",
             "technologies": [
+                "PHP",
                 "Python",
-                "Qiskit",
-                "GitHub Actions",
-                "Ansible",
-                "Streamlit",
-                "Docker"
+                "Drupal",
+                "Symfony"
             ]
+        },
+        {
+            "title": "Cybersecurity Engineer",
+            "entreprise": "Ekium",
+            "country": "France",
+            "city": "Lyon",
+            "date_begin": "2017-03",
+            "date_end": "2017-09",
+            "short_description": "Development of a cybersecurity architecture with a supervision system for protecting and guarantee the data integrity of an automate system for a seawater desalination plant in Oman.",
+            "long_description_url": "exp_descriptions/ekium.md",
+            "technologies": [
+                "Windows Server 2008/2012 R2",
+                "CentOS 7",
+                "Eyes Of Network",
+                "Redmine"
+            ]
+        },
+        {
+            "title": "Developer",
+            "entreprise": "Grupo Auribox",
+            "country": "Mexico",
+            "city": "Cuernavaca",
+            "date_begin": "2016-07",
+            "date_end": "2016-08",
+            "description": "Development of a multi-OS (Windows, Mac & Linux) billing application link with the IT department of Mexico government.",
+            "long_description_url": null,
+            "technologies": ["PHP"]
         }
     ]
 }
