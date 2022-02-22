@@ -1,6 +1,6 @@
 {
-    "experiences": {
-        "0": {
+    "experiences": [
+        {
             "title": "Developer",
             "entreprise": "Grupo Auribox",
             "country": "Mexico",
@@ -11,7 +11,7 @@
             "long_description_url": null,
             "technologies": ["PHP"]
         },
-        "1": {
+        {
             "title": "Cybersecurity Engineer",
             "entreprise": "Ekium",
             "country": "France",
@@ -27,7 +27,7 @@
                 "Redmine"
             ]
         },
-        "2": {
+        {
             "title": "National Web Project Administrator",
             "entreprise": "Erasmus Student Network France",
             "country": "France",
@@ -43,7 +43,7 @@
                 "Symfony"
             ]
         },
-        "3": {
+        {
             "title": "System engineer at Orange",
             "entreprise": "Altran",
             "country": "France",
@@ -64,7 +64,7 @@
                 "Xymon"
             ]
         },
-        "4": {
+        {
             "title": "Qiskit Advocate",
             "entreprise": "Qiskit",
             "country": null,
@@ -82,5 +82,5 @@
                 "Docker"
             ]
         }
-    }
+    ]
 }
