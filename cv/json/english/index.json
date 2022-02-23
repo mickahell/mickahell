@@ -31,6 +31,8 @@
             "pages": [
                 "projects"
             ]
-        }
+        },
+        "resume_fr": "https://raw.githubusercontent.com/mickahell/mickahell/main/cv/cv_fr.pdf",
+        "resume_en": "https://raw.githubusercontent.com/mickahell/mickahell/main/cv/cv_en.pdf"
     }
 }
