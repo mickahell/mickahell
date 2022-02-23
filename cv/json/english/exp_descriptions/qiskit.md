@@ -1,5 +1,3 @@
-Advocate for the Qiskit community, opensource contributor for Qiskit projects and also Studies manager in QC for Altran/Capgemini to education and proof of concept purposes.
-
 Achievements :
 * Creating the Qiskit Ecosystem during QAMP21
 * Creating automation program for solving game problems
