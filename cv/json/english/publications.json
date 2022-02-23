@@ -6,7 +6,7 @@
             "doi": "10.5281/zenodo.4457651",
             "hal_id": "hal-03129624",
             "type": "class",
-            "domaine": "quantum computing",
+            "field": "quantum computing",
             "publication_date": "2021-01-22",
             "language": "french",
             "hal_url": "https://hal.archives-ouvertes.fr/hal-03129624",
@@ -19,7 +19,7 @@
             "doi": "10.5281/zenodo.4457645",
             "hal_id": "hal-03129625",
             "type": "class",
-            "domaine": "quantum computing",
+            "field": "quantum computing",
             "publication_date": "2021-01-22",
             "language": "french",
             "hal_url": "https://hal.archives-ouvertes.fr/hal-03129625",
@@ -35,7 +35,7 @@
             "language": "english",
             "url": "https://fullstackquantumcomputation.tech/blog/post-quantum-lab",
             "publication_date": "2021-04-07",
-            "domaine": "quantum computing",
+            "field": "quantum computing",
             "abstract": "A simple docker image to simulate a full Quantum laboratory."
         },
         {
@@ -45,7 +45,7 @@
             "language": "english",
             "url": "https://fullstackquantumcomputation.tech/blog/post-quantum-pokemon-fight",
             "publication_date": "2021-01-09",
-            "domaine": "quantum computing",
+            "field": "quantum computing",
             "abstract": "A quantum game and algorithm to fight in Pokemon."
         }
     ]
