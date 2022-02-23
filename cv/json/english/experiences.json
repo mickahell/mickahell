@@ -78,7 +78,7 @@
             "city": "Cuernavaca",
             "date_begin": "2016-07",
             "date_end": "2016-08",
-            "description": "Development of a multi-OS (Windows, Mac & Linux) billing application link with the IT department of Mexico government.",
+            "short_description": "Development of a multi-OS (Windows, Mac & Linux) billing application link with the IT department of Mexico government.",
             "long_description_url": null,
             "technologies": ["PHP"]
         }
