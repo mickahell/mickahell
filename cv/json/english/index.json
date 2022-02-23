@@ -1,7 +1,7 @@
 {
     "index": {
-        "info": {
-            "key": "info",
+        "profile": {
+            "key": "profile",
             "pages": [
                 "info"
             ]
