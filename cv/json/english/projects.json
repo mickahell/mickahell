@@ -1,7 +1,7 @@
 {
     "projects": [
         {
-            "name": "Qiskit Ecosystem",
+            "title": "Qiskit Ecosystem",
             "date": "12/2021",
             "organisation": "qiskit-community",
             "doi": null,
@@ -13,7 +13,7 @@
             "description": "The Ecosystem consists of projects, tools, utilities, libraries and tutorials from a broad community of developers and researchers. The goal of the Ecosystem is to recognize, support and accelerate development of quantum technologies using Qiskit."
         },
         {
-            "name": "robots-data",
+            "title": "robots-data",
             "date": "09/2021",
             "organisation": "mickahell",
             "doi": null,
@@ -25,7 +25,7 @@
             "description": "Data of my robots for my website."
         },
         {
-            "name": "Quantum Nim game",
+            "title": "Quantum Nim game",
             "date": "12/2021",
             "organisation": "mickahell",
             "doi": null,
@@ -37,7 +37,7 @@
             "description": "Quantum version of the classical Nim game. An automatic opponent allows the game to not be as easy as it seems."
         },
         {
-            "name": "xtraorbitals.xyz",
+            "title": "xtraorbitals.xyz",
             "date": "06/2021",
             "organisation": "mickahell",
             "doi": null,
@@ -49,7 +49,7 @@
             "description": "Repository for all my micro services and my website."
         },
         {
-            "name": "Quantum Experiments",
+            "title": "Quantum Experiments",
             "date": "04/2021",
             "organisation": "mickahell",
             "doi": null,
@@ -61,7 +61,7 @@
             "description": "Repository for all my quantum experiments."
         },
         {
-            "name": "Quantum Lab",
+            "title": "Quantum Lab",
             "date": "03/2021",
             "organisation": "mickahell",
             "doi": "10.5281/zenodo.4664195",
@@ -73,7 +73,7 @@
             "description": "Docker image for quantum laboratory."
         },
         {
-            "name": "quantum_pokemon-fight",
+            "title": "quantum_pokemon-fight",
             "date": "12/2020",
             "organisation": "mickahell",
             "doi": "10.5281/zenodo.5594389",
