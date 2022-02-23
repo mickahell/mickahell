@@ -73,7 +73,7 @@
             "description": "Docker image for quantum laboratory."
         },
         {
-            "title": "quantum_pokemon-fight",
+            "title": "Quantum Pokemon fight",
             "date": "12/2020",
             "organisation": "mickahell",
             "doi": "10.5281/zenodo.5594389",
