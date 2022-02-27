@@ -9,7 +9,8 @@
             "field": "quantum computing",
             "publication_date": "2021-01-22",
             "language": "french",
-            "paper_url": "https://hal.archives-ouvertes.fr/",
+            "journal_name": "Hal",
+            "journal_url": "https://hal.archives-ouvertes.fr/",
             "doc_url": "https://hal.archives-ouvertes.fr/hal-03129624/document",
             "abstract": "Tout comme avec l’informatique classique, l’informatique quantique est régie par des lois mathématiques. La majorité des algorithmes ayant été écrite par des mathématiciens et/ou des physiciens, il est nécessaire de comprendre de quelle manière sont effectuées les altérations des qubits entre eux et avec les portes logiques. Pour cela, je commencerai par vous présenter dans cet article les représentations mathématiques de l’informatique quantique. Puis j’expliquerai comment fonctionnent les représentations plus visuelles que sont la Bloch sphere et la Qsphere. Enfin un chapitre En bref résumera les différents principes à l’aide de termes plus accessibles."
         },
@@ -22,7 +23,8 @@
             "field": "quantum computing",
             "publication_date": "2021-01-22",
             "language": "french",
-            "paper_url": "https://hal.archives-ouvertes.fr/",
+            "journal_name": "Hal",
+            "journal_url": "https://hal.archives-ouvertes.fr/",
             "doc_url": "https://hal.archives-ouvertes.fr/hal-03129625/document",
             "abstract": "Le qubit est l’unité de base d’un ordinateur quantique. Il y a actuellement plusieurs types d’ordinateurs quantique, des ordinateurs composés de particules, d’atomes, de silicium ... et fonctionnent avec une logique différente de la logique booléenne : la logique quantique. Combinés entre eux, ils permettent un nombre de possibilités bien plus élevé qu’avec des bits classiques. Cependant, ils existe actuellement un problème de taille : la décohérence. En effet, la décohérence correspond à l’instabilité du qubit, celui-ci étant très influençable par le moindre élément extérieur."
         }
