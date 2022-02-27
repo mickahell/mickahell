@@ -57,7 +57,7 @@
             "diploma": "Advanced badge",
             "ref_id": "7fd50a08-42b4-4b2e-b3ba-f91e4bc0bbd7",
             "diploma_url": "https://www.credly.com/badges/7fd50a08-42b4-4b2e-b3ba-f91e4bc0bbd7",
-            "organisme": "IBM",
+            "organization": "IBM",
             "date": "2021"
         },
         {
@@ -65,7 +65,7 @@
             "diploma": "Advanced badge",
             "ref_id": "23c83e68-73b3-4ad4-a1ea-625a4529bea9",
             "diploma_url": "https://www.credly.com/badges/23c83e68-73b3-4ad4-a1ea-625a4529bea9",
-            "organisme": "IBM",
+            "organization": "IBM",
             "date": "2021"
         },
         {
@@ -73,7 +73,7 @@
             "diploma": null,
             "ref_id": "7b27192c-7f23-4725-bd08-a27e7a76c7cb",
             "diploma_url": "https://www.credly.com/badges/7b27192c-7f23-4725-bd08-a27e7a76c7cb",
-            "organisme": "IBM",
+            "organization": "IBM",
             "date": "2021"
         },
         {
@@ -81,7 +81,7 @@
             "diploma": "Advanced badge",
             "ref_id": "a020adc5-df85-48ae-9cbf-2e8bed405a5f",
             "diploma_url": "https://www.credly.com/badges/a020adc5-df85-48ae-9cbf-2e8bed405a5f",
-            "organisme": "IBM",
+            "organization": "IBM",
             "date": "2021"
         },
         {
@@ -89,7 +89,7 @@
             "diploma": null,
             "ref_id": "dae97054-c2d4-4f3c-94de-5b8c181e2d16",
             "diploma_url": "https://drive.google.com/file/d/1e5bcyJDFzy-HoYBRlLgbEts_dEkRMX07/view?usp=sharing",
-            "organisme": "Quantum Coalition",
+            "organization": "Quantum Coalition",
             "date": "2021"
         },
         {
@@ -97,7 +97,7 @@
             "diploma": "Advanced badge",
             "ref_id": "4cf18640-47fe-4fd0-9e5f-4edb5ade9693",
             "diploma_url": "https://www.credly.com/badges/4cf18640-47fe-4fd0-9e5f-4edb5ade9693",
-            "organisme": "IBM",
+            "organization": "IBM",
             "date": "2020"
         }
     ]
