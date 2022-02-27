@@ -3,7 +3,7 @@
         {
             "title": "Qiskit Ecosystem",
             "date": "12/2021",
-            "organisation": "qiskit-community",
+            "organization": "qiskit-community",
             "doi": null,
             "repo_url": "https://github.com/qiskit-community/ecosystem",
             "live_url": null,
@@ -15,7 +15,7 @@
         {
             "title": "robots-data",
             "date": "09/2021",
-            "organisation": "mickahell",
+            "organization": "mickahell",
             "doi": null,
             "repo_url": "https://github.com/mickahell/robots-data",
             "live_url": null,
@@ -27,7 +27,7 @@
         {
             "title": "Quantum Nim game",
             "date": "12/2021",
-            "organisation": "mickahell",
+            "organization": "mickahell",
             "doi": null,
             "repo_url": "https://github.com/mickahell/quantum_Nim-game",
             "live_url": "https://games.xtraorbitals.xyz",
@@ -39,7 +39,7 @@
         {
             "title": "xtraorbitals.xyz",
             "date": "06/2021",
-            "organisation": "mickahell",
+            "organization": "mickahell",
             "doi": null,
             "repo_url": "https://github.com/mickahell/xtraorbitals.xyz",
             "live_url": "https://xtraorbitals.xyz",
@@ -51,7 +51,7 @@
         {
             "title": "Quantum Experiments",
             "date": "04/2021",
-            "organisation": "mickahell",
+            "organization": "mickahell",
             "doi": null,
             "repo_url": "https://github.com/mickahell/quantum_experiments",
             "live_url": null,
@@ -63,7 +63,7 @@
         {
             "title": "Quantum Lab",
             "date": "03/2021",
-            "organisation": "mickahell",
+            "organization": "mickahell",
             "doi": "10.5281/zenodo.4664195",
             "repo_url": "https://github.com/mickahell/quantum_lab",
             "live_url": "https://quantum-lab.xtraorbitals.xyz/",
@@ -75,7 +75,7 @@
         {
             "title": "Quantum Pokemon fight",
             "date": "12/2020",
-            "organisation": "mickahell",
+            "organization": "mickahell",
             "doi": "10.5281/zenodo.5594389",
             "repo_url": "https://github.com/mickahell/quantum_pokemon-fight",
             "live_url": "https://games.xtraorbitals.xyz",
