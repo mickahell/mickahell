@@ -53,6 +53,14 @@
     ],
     "certifications": [
         {
+            "title": "Qiskit Advocate Mentorship Program Fall 2021 - Mentee",
+            "diploma": null,
+            "ref_id": "c086159f-d1b7-4b7c-879c-f0026d9acfde",
+            "diploma_url": "https://www.credly.com/badges/c086159f-d1b7-4b7c-879c-f0026d9acfde",
+            "organization": "IBM",
+            "date": "2022"
+        },
+        {
             "title": "IBM Quantum Challenge - Fall 2021",
             "diploma": "Advanced badge",
             "ref_id": "7fd50a08-42b4-4b2e-b3ba-f91e4bc0bbd7",
