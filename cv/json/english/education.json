@@ -53,6 +53,14 @@
     ],
     "certifications": [
         {
+            "title": "Qiskit Advocate Mentorship Program Spring 2022 - Mentee",
+            "diploma": null,
+            "ref_id": "ef94695d-a8ec-4f6a-a4f0-54d8d7cbc0d1",
+            "diploma_url": "https://www.credly.com/badges/ef94695d-a8ec-4f6a-a4f0-54d8d7cbc0d1",
+            "organization": "IBM",
+            "date": "2022"
+        },
+        {
             "title": "Qiskit Advocate Mentorship Program Fall 2021 - Mentee",
             "diploma": null,
             "ref_id": "c086159f-d1b7-4b7c-879c-f0026d9acfde",

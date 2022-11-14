@@ -19,12 +19,31 @@
             ]
         },
         {
+            "title": "Infrastructure engineer",
+            "entreprise": "EDF Store and Forecast",
+            "country": "France",
+            "city": "Lyon",
+            "date_begin": "2022-07",
+            "date_end": "2022-11",
+            "short_description": "Engineer responsible of maintaining an infrastructure on AWS servers for the well development of embedded energy management system for batteries. Also reponsible of developing new tools and automatized to help and maintained the continuous integration using Kubernetes, Terraform and others DevOps technologies.",
+            "long_description_url": "exp_descriptions/edfsf.md",
+            "technologies": [
+                "GitLab CI/CD / ArgoCD / Argo Workflows",
+                "Terraform / Ansible",
+                "Docker",
+                "Kubernetes",
+                "Ubuntu",
+                "AWS",
+                "Bash"
+            ]
+        },
+        {
             "title": "System engineer at Orange",
             "entreprise": "Altran",
             "country": "France",
             "city": "Sophia Antipolis",
             "date_begin": "2018-07",
-            "date_end": null,
+            "date_end": "2022-07",
             "short_description": "Admin system responsible of the production servers for project Meta and the Search. Project about to getting and processing every metadata of the Orange TV and process those data for the websearch Orange. These data came from partners, internal and external. My role is to build a new automatize deploy architecture by using Docker, Ansible, GitLab pipelines and others DevOps technologies.",
             "long_description_url": "exp_descriptions/orange.md",
             "technologies": [

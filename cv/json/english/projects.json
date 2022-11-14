@@ -1,6 +1,18 @@
 {
     "projects": [
         {
+            "title": "Operationalizing Quantum Kernels",
+            "date": "07/2022",
+            "organization": "qiskit-community",
+            "doi": "2112.08449",
+            "repo_url": "https://github.com/Travis-S-IBM/q-kernel-ops",
+            "live_url": null,
+            "opensource": true,
+            "language": "python",
+            "publish": true,
+            "description": "The goal of this project is to create the code allowing to redo the experiments of the `Kernel Matrix Completion for Offline Quantum-Enhanced Machine Learning` and analyze the practical behaviour of the classical completion and to improve the Runtime."
+        },
+        {
             "title": "Qiskit Ecosystem",
             "date": "12/2021",
             "organization": "qiskit-community",
@@ -9,7 +21,7 @@
             "live_url": null,
             "opensource": true,
             "language": "python",
-            "publish": false,
+            "publish": true,
             "description": "The Ecosystem consists of projects, tools, utilities, libraries and tutorials from a broad community of developers and researchers. The goal of the Ecosystem is to recognize, support and accelerate development of quantum technologies using Qiskit."
         },
         {
