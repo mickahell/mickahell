@@ -34,4 +34,4 @@ I create quantum autom processes and tools for IT engineering.
 ### Keep connect
 [![GitHub](https://raw.githubusercontent.com/mickahell/mickahell/main/resources/github.png)](https://github.com/mickahell) 
 [![LinkedIn](https://raw.githubusercontent.com/mickahell/mickahell/main/resources/linkedin.png)](https://www.linkedin.com/in/michaelrollin/) 
-[![Twitter](https://raw.githubusercontent.com/mickahell/mickahell/main/resources/twitter.png)](https://twitter.com/mickahell89700)
+[![Twitter](https://raw.githubusercontent.com/mickahell/mickahell/main/resources/twitter.png)](https://twitter.com/m1ckahell)
