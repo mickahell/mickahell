@@ -3,4 +3,4 @@ Achievements :
 * Maintaining AWS architecture using Terraform
 * Development of new tools to help internal development
 * Processus automatisation with Ansible
-* Automatization using GitLab CI/CD and Argo tools
+* Automatization using GitLab CI/CD, Jenkins and Argo tools
