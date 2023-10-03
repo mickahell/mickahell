@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi there, I'm Michaël <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
-## I'm system engineer and Qiskit Advocate
+## I'm DevOps engineer and Qiskit Advocate
 I create quantum autom processes and tools for IT engineering.
 
 #### You can find a live version of (almost) each of my project in my website --> https://xtraorbitals.xyz 
