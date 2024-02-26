@@ -1,4 +1,5 @@
 Achievements :
+* Creating PurpleCaffeine during QAMP23
 * Creating the Qiskit Ecosystem during QAMP21
 * Creating automation program for solving game problems
 * Create Docker images for quantum apps integration, laboratory environment and experiments reproducibility
