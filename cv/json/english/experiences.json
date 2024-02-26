@@ -25,7 +25,7 @@
             "country": "France",
             "city": "Lyon",
             "date_begin": "2022-07",
-            "date_end": "2022-11",
+            "date_end": null,
             "short_description": "Engineer responsible of maintaining an infrastructure on virtual and physical servers for the well development of embedded energy management system for batteries. Also reponsible of developing new tools and automatized to help and maintained the continuous integration using Terraform and others DevOps technologies. And in charge of the environment system of the Linky intervention platform.",
             "long_description_url": "exp_descriptions/edf.md",
             "technologies": [
