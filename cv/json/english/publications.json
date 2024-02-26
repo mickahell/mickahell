@@ -1,6 +1,20 @@
 {
     "publications": [
         {
+            "title": "PurpleCaffeine: tracking of quantum programs and experiments",
+            "author": "Iskandar Sitdikov, Michaël Rollin, Ansah Mohammad Kuriyodath, Luis Eduardo Martínez Hérnandez",
+            "doi": "10.21105/joss.05673",
+            "paper_id": "10.21105/joss.05673",
+            "type": "software",
+            "field": "quantum computing",
+            "publication_date": "2023-10-03",
+            "language": "english",
+            "journal_name": "The Journal of Open Source Science",
+            "journal_url": "https://joss.theoj.org",
+            "doc_url": "https://joss.theoj.org/papers/10.21105/joss.05673",
+            "abstract": "PurpleCaffeine aims to provide researchers in the field of quantum computing with a userfriendly and efficient solution for tracking their experimental data. With the rapid advancement of quantum computing research, the need for accessible and organized data management tools has become increasingly important. By offering a simple interface, PurpleCaffeine allows researchers to easily record and organize quantum experimental data, ensuring its accessibility and facilitating future analysis."
+        },
+        {
             "title": "Informatique Quantique - Mathématique",
             "author": "Michaël Rollin",
             "doi": "10.5281/zenodo.4457651",

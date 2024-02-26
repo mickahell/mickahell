@@ -22,7 +22,7 @@
                 "category": "OS",
                 "list": [
                     "Ubuntu",
-                    "CentOS",
+                    "Rhel",
                     "Windows Server 2008",
                     "Windows Server 2012 R2"
                 ]

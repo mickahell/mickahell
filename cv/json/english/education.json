@@ -1,6 +1,16 @@
 {
     "education": [
         {
+            "diploma": "Quantum Excellence Badge",
+            "level": null,
+            "title": "Qiskit Global Summer School 2023 - Quantum Excellence",
+            "country": null,
+            "city": null,
+            "school": "Qiskit",
+            "date_begin": "2023",
+            "date_end": "2023"
+        },
+        {
             "diploma": "Certificate of Quantum Excellence",
             "level": null,
             "title": "Qiskit Global Summer School on Quantum Machine Learning",
@@ -53,6 +63,38 @@
     ],
     "certifications": [
         {
+            "title": "Qiskit Advocate Mentorship Program Spring 2023 - Mentee",
+            "diploma": null,
+            "ref_id": "44487029-28a2-4ce3-baba-486a1ca78948",
+            "diploma_url": "https://www.credly.com/earner/earned/badge/44487029-28a2-4ce3-baba-486a1ca78948",
+            "organization": "IBM",
+            "date": "2023"
+        },
+        {
+            "title": "Qiskit Global Summer School 2023 - Quantum Excellence",
+            "diploma": "Quantum Excellence Badge",
+            "ref_id": "2d8fb81f-4385-4d4c-a66d-c04af30cd753",
+            "diploma_url": "https://www.credly.com/earner/earned/badge/2d8fb81f-4385-4d4c-a66d-c04af30cd753",
+            "organization": "IBM",
+            "date": "2023"
+        },
+        {
+            "title": "IBM Quantum Challenge: Spring 2023 Achievement",
+            "diploma": "Advanced badge",
+            "ref_id": "6a2ed071-f43e-40fe-af21-b20beb8cddc9",
+            "diploma_url": "https://www.credly.com/badges/6a2ed071-f43e-40fe-af21-b20beb8cddc9",
+            "organization": "IBM",
+            "date": "2023"
+        },
+        {
+            "title": "IBM Quantum Challenge Fall 2022 Achievement - Advanced",
+            "diploma": "Advanced badge",
+            "ref_id": "cd158867-3a88-4928-9ecb-377e29b721cc",
+            "diploma_url": "https://www.credly.com/badges/cd158867-3a88-4928-9ecb-377e29b721cc",
+            "organization": "IBM",
+            "date": "2022"
+        },
+        {
             "title": "Qiskit Advocate Mentorship Program Spring 2022 - Mentee",
             "diploma": null,
             "ref_id": "ef94695d-a8ec-4f6a-a4f0-54d8d7cbc0d1",
@@ -86,7 +128,7 @@
         },
         {
             "title": "IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X",
-            "diploma": null,
+            "diploma": "Certification",
             "ref_id": "7b27192c-7f23-4725-bd08-a27e7a76c7cb",
             "diploma_url": "https://www.credly.com/badges/7b27192c-7f23-4725-bd08-a27e7a76c7cb",
             "organization": "IBM",

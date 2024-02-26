@@ -1,6 +1,18 @@
 {
     "projects": [
         {
+            "title": "PurpleCaffeine",
+            "date": "07/2022",
+            "organization": "qiskit-community",
+            "doi": "10.5281/zenodo.8357519",
+            "repo_url": "https://github.com/IceKhan13/purplecaffeine",
+            "live_url": "https://icekhan13.github.io/purplecaffeine",
+            "opensource": true,
+            "language": "python",
+            "publish": true,
+            "description": "PurpleCaffeine is a software for tracking quantum programs and experiments."
+        },
+        {
             "title": "Operationalizing Quantum Kernels",
             "date": "07/2022",
             "organization": "qiskit-community",
